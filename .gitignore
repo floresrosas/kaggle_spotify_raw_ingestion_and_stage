@@ -1,0 +1,8 @@
+*.parquet
+*.parquet.crc
+*.zip
+*.json
+*.csv
+/.DS_Store
+/.vscode
+/scrap.py
