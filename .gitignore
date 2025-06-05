@@ -6,3 +6,7 @@
 /.DS_Store
 /.vscode
 /scrap.py
+kaggle_spotify_songs/chatgpt_pipeline/.env
+.gitignore
+kaggle_spotify_songs/data/parquet/._SUCCESS.crc
+kaggle_spotify_songs/chatgpt_pipeline/__pycache__/ingestion_script.cpython-312.pyc
